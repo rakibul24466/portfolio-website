@@ -1,6 +1,7 @@
 body{
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
 }
 .attachment_area{
     background-repeat: no-repeat;
@@ -29,7 +30,7 @@ p{
 #orange-highlight
 
 {
-    color: rgb(255, 72, 0);
+    color:#FF8367;
 }
 
 .link-button{
